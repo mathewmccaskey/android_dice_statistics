@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_dice_color"
+        android:title="@string/action_dice_color">
+        <menu>
+            <item android:id="@+id/dice_color_red"
+                android:title="@string/dice_color_red" />
+            <item android:id="@+id/dice_color_green"
+                android:title="@string/dice_color_green" />
+            <item android:id="@+id/dice_color_cyan"
+                android:title="@string/dice_color_cyan" />
+            <item android:id="@+id/dice_color_blue"
+                android:title="@string/dice_color_blue" />
+            <item android:id="@+id/dice_color_purple"
+                android:title="@string/dice_color_purple" />
+            <item android:id="@+id/dice_color_black"
+                android:title="@string/dice_color_black" />
+        </menu>
+    </item>
+    <item android:id="@+id/action_about"
+        android:title="@string/action_about" />
+</menu>
